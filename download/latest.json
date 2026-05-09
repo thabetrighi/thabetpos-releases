@@ -4,7 +4,7 @@
   "pub_date": "2026-05-09T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/thabetrighi/thabetpos-releases/download/thabetpos_1.0.0_x64-setup.exe"
+      "url": "https://github.com/thabetrighi/thabetpos-releases/raw/refs/heads/master/download/thabetpos_1.0.0_x64-setup.exe"
     }
   }
 }
